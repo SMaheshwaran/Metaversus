@@ -1,6 +1,6 @@
 ﻿# Metaversus
 Explore the madness
 
-### [Live Site](https://metaversus-tau-rust.vercel.app/)
+### [Live Site Link](https://metaversus-tau-rust.vercel.app/)
 
 
